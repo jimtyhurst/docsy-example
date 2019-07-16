@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "Goldydocs"
+title = "Zoom-Zoom"
 
 enableRobotsTXT = true
 
@@ -56,7 +56,7 @@ id = "UA-00000000-0"
 
 [languages]
 [languages.en]
-title = "Goldydocs"
+title = "Zoom-Zoom"
 description = "A Docsy example site"
 languageName ="English"
 # Weight used for sorting.
